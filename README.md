@@ -11,4 +11,20 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 ## Table of Contents
  - [**About**](##About)
  - **SQL**
-   - [Laptop Specifications for Digital Application](https://github.com/jehnsun/case_study_laptop_specifications_9_23_24/blob/main/SQL%20script%20for%20laptops.sql)
+   - [Laptop Specifications for Digital Applications](###LaptopSpecificationsforDigitalApplications)
+
+## Projects
+
+### Laptop Specifications for Digital Applications
+
+**Code:** [Laptop Specifications for Digital Applications](https://github.com/jehnsun/case_study_laptop_specifications_9_23_24/blob/main/SQL%20script%20for%20laptops.sql)
+
+**Goal:** Create a reference point, of laptop specifications, for developers to use to create their program.
+
+**Description:** The data offers insight about 3000+ laptops within the market; this includes: model number, manufacturer, CPU, GPU, RAM, storage, and many more. By breaking down the data into price ranges, one is able to understand the price range in which majority of laptops fall under. This is valuable as it allows developers to create a program that most consumers can run and limit the amount of potential bugs at launch.
+
+**Skills:** Data formatting, cleaning, and visualizing
+
+**Technical:** SQL, Tableau, Excel, and Powerpoint
+
+**Results:** Most laptops fall within the 500 to 1000 USD price range. Secondly, most laptops found within this price range have an 11th gen, 12th Intel core i5, and AMD Hexa-core 5 CPU. Thirdly, these laptops have Iris Xe and Intel integrated graphics (Graphics unit built into the CPU) as the main GPU. Lastly, laptops use DDR4 RAM.
