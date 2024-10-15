@@ -9,6 +9,6 @@ This is a repository displaying my projects and skills I have learned throughout
 My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/blob/main/Resume%20Data%20Analytics-%20Johnson%20Vo%20.pdf)
 
 ## Table of Contents
- - [About](##About)
+ - [**About**](##About)
  - **SQL**
    - [Laptop Specifications for Digital Application](https://github.com/jehnsun/case_study_laptop_specifications_9_23_24/blob/main/SQL%20script%20for%20laptops.sql)
