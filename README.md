@@ -20,6 +20,8 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 ### Laptop Specifications for Digital Applications
 
+**Files:** [Files](https://github.com/jehnsun/case_study_laptop_specifications_9_23_24/tree/main)
+
 **Code:** [Laptop Specifications for Digital Applications](https://github.com/jehnsun/case_study_laptop_specifications_9_23_24/blob/main/SQL%20script%20for%20laptops.sql)
 
 **Goal:** Create a reference point, of laptop specifications, for developers to use to create their program.
