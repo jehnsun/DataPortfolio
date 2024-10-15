@@ -2,6 +2,7 @@
 
 ## Table of Contents
  - [**About**](#About)
+ - [**Tableau**](https://public.tableau.com/app/profile/johnson.vo1109/vizzes)
  - **SQL**
    - [Laptop Specifications for Digital Applications](#Laptop-Specifications-for-Digital-Applications)
 
