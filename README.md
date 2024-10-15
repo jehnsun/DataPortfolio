@@ -3,7 +3,7 @@
 ## Table of Contents
  - [**About**](#About)
  - **SQL**
-   - [Laptop Specifications for Digital Applications](#LaptopSpecificationsforDigitalApplications)
+   - [Laptop Specifications for Digital Applications](#Laptop_Specifications_for_Digital_Applications)
 
 
 ## About
