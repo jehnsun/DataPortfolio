@@ -1,4 +1,11 @@
 # Johnson Vo - Data Analyst Portfolio
+
+## Table of Contents
+ - [**About**](##About)
+ - **SQL**
+   - [Laptop Specifications for Digital Applications](###LaptopSpecificationsforDigitalApplications)
+
+
 ## About
 Hello, my name is Johnson Vo. I have a bachelors in Business Economics, and an Associates in Economics and Natural Sciences. I am passionate about learning new things and pushing myself to do more. Through much of my rigorous coursework and self-study, I became proficient in Excel, Powerpoint, SQL, R, and Tableau. Using my skills that I was taught in through university and self-study, I am eager to put my technical and analytical skills to work. 
 
@@ -8,10 +15,6 @@ This is a repository displaying my projects and skills I have learned throughout
 
 My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/blob/main/Resume%20Data%20Analytics-%20Johnson%20Vo%20.pdf)
 
-## Table of Contents
- - [**About**](##About)
- - **SQL**
-   - [Laptop Specifications for Digital Applications](###LaptopSpecificationsforDigitalApplications)
 
 ## Projects
 
