@@ -1,9 +1,9 @@
 # Johnson Vo - Data Analyst Portfolio
 
 ## Table of Contents
- - [**About**](##About)
+ - [**About**](#About)
  - **SQL**
-   - [Laptop Specifications for Digital Applications](###LaptopSpecificationsforDigitalApplications)
+   - [Laptop Specifications for Digital Applications](#LaptopSpecificationsforDigitalApplications)
 
 
 ## About
