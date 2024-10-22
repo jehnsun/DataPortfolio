@@ -3,10 +3,11 @@
 ## Table of Contents
  - [**About**](#About)
  - [**Tableau**](https://public.tableau.com/app/profile/johnson.vo1109/vizzes)
- - **SQL**
-   - [Laptop Specifications for Digital Applications](#Laptop-Specifications-for-Digital-Applications)
- - **R**
-   - [How to Promote Physical Activity at the Gym?](#How-to-Promote-Physical-Activity-at-the-Gym?)
+ - [**Projects**](#Projects)
+  - **SQL**
+    - [Laptop Specifications for Digital Applications](#Laptop-Specifications-for-Digital-Applications)
+  - **R**
+    - [How to Promote Physical Activity at the Gym?](#How-to-Promote-Physical-Activity-at-the-Gym?)
 
 ## About
 Hello, my name is Johnson Vo. I have a bachelors in Business Economics, and an Associates in Economics and Natural Sciences. I am passionate about learning new things and pushing myself to do more. Through much of my rigorous coursework and self-study, I became proficient in Excel, Powerpoint, SQL, R, and Tableau. Using my skills that I was taught in through university and self-study, I am eager to put my technical and analytical skills to work. 
