@@ -45,9 +45,10 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 **Goal:** Visualize the dataset to reveal potential solutions to increase physical activity at the gym.
 
+**Description:** The data reveals physical attributes and effects of workout of over 900+ gym members. The data includes: Age, Gender, Avg_BPM, Session_Duration, Workout_Type, and more. In order to better understand the dataset, visualizations must be created to help gym owners develop a better grasp on their overall demographic. This allows gym owners to potentially understand how to target their marketing to certain audiences and potentially increase members' physical activity.
+
 **Skills:** Data analysis and data visualization
 
 **Technical:** Tidyverse (R)
 
-**Description:** The data reveals physical attributes and effects of workout of over 900+ gym members. The data includes: Age, Gender, Avg_BPM, Session_Duration, Workout_Type, and more. In order to better understand the dataset, visualizations must be created to help gym owners develop a better grasp on their overall demographic. This allows gym owners to potentially understand how to target their marketing to certain audiences and potentially increase members' physical activity.
 
