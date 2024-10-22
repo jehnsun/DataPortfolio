@@ -6,9 +6,9 @@
  - [**Tableau**](https://public.tableau.com/app/profile/johnson.vo1109/vizzes)
  - [**Projects**](#Projects)
   - **SQL**
-    - [Laptop Specifications for Digital Applications](https://github.com/jehnsun/DataPortfolio/blob/main/README.md#laptop-specifications-for-digital-applications)
+    - [Laptop Specifications for Digital Applications](#laptop-specifications-for-digital-applications)
   - **R**
-    - [How to Promote Physical Activity at the Gym?](https://github.com/jehnsun/DataPortfolio/blob/main/README.md#how-to-promote-physical-activity-at-the-gym)
+    - [How to Promote Physical Activity at the Gym?](#how-to-promote-physical-activity-at-the-gym)
   - [**Tableau**](https://public.tableau.com/app/profile/johnson.vo1109/vizzes)
  - [**Contacts**](#Contacts)
 
