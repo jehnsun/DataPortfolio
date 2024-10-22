@@ -2,7 +2,7 @@
 
 ## Table of Contents
  - [**About**](#About)
- - [**Education/Certificates**](https://github.com/jehnsun/DataPortfolio/blob/main/README.md#educationcertificates)
+ - [**Education/Certificates**](#educationcertificates)
  - [**Tableau**](https://public.tableau.com/app/profile/johnson.vo1109/vizzes)
  - [**Projects**](#Projects)
   - **SQL**
