@@ -32,7 +32,7 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 - **Pasadena City College: Associate of Arts in Natural Sciences**
   - Sept. 2020 - May 2022
     
-- **Google Data Analytics 2024 Hosted by Coursera**
+- **Google Data Analytics Professional Certificate**
   - Mar. 2022 - Oct. 2024  
 
 
