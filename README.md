@@ -5,7 +5,7 @@
  - [**Tableau**](https://public.tableau.com/app/profile/johnson.vo1109/vizzes)
  - [**Projects**](#Projects)
   - **SQL**
-    - [Laptop Specifications for Digital Applications](#Laptop-Specifications-for-Digital-Applications)
+    - [Laptop Specifications for Digital Applications](https://github.com/jehnsun/DataPortfolio/blob/main/README.md#laptop-specifications-for-digital-applications)
   - **R**
     - [How to Promote Physical Activity at the Gym?](https://github.com/jehnsun/DataPortfolio/blob/main/README.md#how-to-promote-physical-activity-at-the-gym)
 
@@ -39,7 +39,7 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 **Files:** [Gym Members Exercise Dataset by Vala Kohrasani](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset)
 
-**Rmd:** [Rmd](https://github.com/jehnsun/gym_analysis_10_22_24/blob/main/R%20Markdown%20-%20Gym%20Dataset%2010.22.24.Rmd)
+**Rmd(Code):** [Rmd](https://github.com/jehnsun/gym_analysis_10_22_24/blob/main/R%20Markdown%20-%20Gym%20Dataset%2010.22.24.Rmd)
 
 **PDF:** [PDF](https://github.com/jehnsun/gym_analysis_10_22_24/blob/main/R-Markdown%20-%20Gym-Dataset-10.22.24.pdf)
 
