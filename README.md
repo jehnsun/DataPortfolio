@@ -5,7 +5,8 @@
  - [**Tableau**](https://public.tableau.com/app/profile/johnson.vo1109/vizzes)
  - **SQL**
    - [Laptop Specifications for Digital Applications](#Laptop-Specifications-for-Digital-Applications)
-
+ - **R**
+   - [How to Promote Physical Activity at the Gym?](#How_to_Promote_Physical_Activity_at_the_Gym?)
 
 ## About
 Hello, my name is Johnson Vo. I have a bachelors in Business Economics, and an Associates in Economics and Natural Sciences. I am passionate about learning new things and pushing myself to do more. Through much of my rigorous coursework and self-study, I became proficient in Excel, Powerpoint, SQL, R, and Tableau. Using my skills that I was taught in through university and self-study, I am eager to put my technical and analytical skills to work. 
@@ -25,7 +26,7 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 **Code:** [Laptop Specifications for Digital Applications](https://github.com/jehnsun/case_study_laptop_specifications_9_23_24/blob/main/SQL%20script%20for%20laptops.sql)
 
-**Goal:** Create a reference point, of laptop specifications, for developers to use to create their program.
+**Goal:** Create a reference point of laptop specifications, for developers to use to create their program.
 
 **Description:** The data offers insight about 3000+ laptops within the market; this includes: model number, manufacturer, CPU, GPU, RAM, storage, and many more. By breaking down the data into price ranges, one is able to understand the price range in which majority of laptops fall under. This is valuable as it allows developers to create a program that most consumers can run and limit the amount of potential bugs at launch.
 
@@ -33,4 +34,19 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 **Technical:** SQL, Tableau, Excel, and Powerpoint
 
-**Results:** Most laptops fall within the 500 to 1000 USD price range. Secondly, most laptops found within this price range have an 11th gen, 12th Intel core i5, and AMD Hexa-core 5 CPU. Thirdly, these laptops have Iris Xe and Intel integrated graphics (Graphics unit built into the CPU) as the main GPU. Lastly, laptops use DDR4 RAM.
+### How to Promote Physical Activity at the Gym?
+
+**Files:** [Gym Members Exercise Dataset by Vala Kohrasani](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset)
+
+**Rmd:** [Rmd](https://github.com/jehnsun/gym_analysis_10_22_24/blob/main/R%20Markdown%20-%20Gym%20Dataset%2010.22.24.Rmd)
+
+**PDF:** [PDF](https://github.com/jehnsun/gym_analysis_10_22_24/blob/main/R-Markdown%20-%20Gym-Dataset-10.22.24.pdf)
+
+**Goal:** Visualize the dataset to reveal potential solutions to increase physical activity at the gym.
+
+**Skills:** Data analysis and data visualization
+
+**Technical:** Tidyverse (R)
+
+**Description:** The data reveals physical attributes and effects of workout of over 900+ gym members. The data includes: Age, Gender, Avg_BPM, Session_Duration, Workout_Type, and more. In order to better understand the dataset, visualizations must be created to help gym owners develop a better grasp on their overall demographic. This allows gym owners to potentially understand how to target their marketing to certain audiences and potentially increase members' physical activity.
+
