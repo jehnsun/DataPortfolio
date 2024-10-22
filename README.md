@@ -2,12 +2,15 @@
 
 ## Table of Contents
  - [**About**](#About)
+ - [**Education/Certificates**](#Education/Certificates)
  - [**Tableau**](https://public.tableau.com/app/profile/johnson.vo1109/vizzes)
  - [**Projects**](#Projects)
   - **SQL**
     - [Laptop Specifications for Digital Applications](https://github.com/jehnsun/DataPortfolio/blob/main/README.md#laptop-specifications-for-digital-applications)
   - **R**
     - [How to Promote Physical Activity at the Gym?](https://github.com/jehnsun/DataPortfolio/blob/main/README.md#how-to-promote-physical-activity-at-the-gym)
+  - [**Tableau**](https://public.tableau.com/app/profile/johnson.vo1109/vizzes)
+ - [**Contact**]
 
 ## About
 Hello, my name is Johnson Vo. I have a bachelors in Business Economics, and an Associates in Economics and Natural Sciences. I am passionate about learning new things and pushing myself to do more. Through much of my rigorous coursework and self-study, I became proficient in Excel, Powerpoint, SQL, R, and Tableau. Using my skills that I was taught in through university and self-study, I am eager to put my technical and analytical skills to work. 
@@ -17,6 +20,20 @@ During my free time, I have taken the Google Analytics Course at Coursera. Using
 This is a repository displaying my projects and skills I have learned throughout my journey to analyze data
 
 My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/blob/main/Resume%20Data%20Analytics-%20Johnson%20Vo%20.pdf)
+
+## Education/Certificates
+
+- **University of Caliornia, Irvine: Bachelor of Arts in Business Economics**
+  - Sept. 2022 - June 2024
+    
+- **Pasadena City College: Associate of Arts in Economics**
+  - Sept. 2020 - May 2022
+    
+- **Pasadena City College: Associate of Arts in Natural Sciences**
+  - Sept. 2020 - May 2022
+    
+- **Google Data Analytics 2024 Hosted by Coursera**
+  - Mar. 2022 - Oct. 2024  
 
 
 ## Projects
@@ -50,5 +67,9 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 **Skills:** Data analysis and data visualization
 
 **Technical:** Tidyverse (R)
+
+## Contact
+- LinkedIn: [Johnson Vo](https://www.linkedin.com/in/vo-johnson/)
+- Email: [Gmail](johnsonvo277@gmail.com)
 
 
