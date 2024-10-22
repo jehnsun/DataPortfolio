@@ -37,7 +37,7 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 ### How to Promote Physical Activity at the Gym?
 
-**Files:** [Gym Members Exercise Dataset by Vala Kohrasani](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset)
+**Dataset:** [Gym Members Exercise Dataset by Vala Kohrasani](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset)
 
 **Rmd(Code):** [Rmd](https://github.com/jehnsun/gym_analysis_10_22_24/blob/main/R%20Markdown%20-%20Gym%20Dataset%2010.22.24.Rmd)
 
