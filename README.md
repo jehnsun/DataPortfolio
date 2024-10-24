@@ -58,7 +58,7 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 **Rmd(Code):** [Rmd](https://github.com/jehnsun/gym_analysis_10_22_24/blob/main/R%20Markdown%20-%20Gym%20Dataset%2010.22.24.Rmd)
 
-**PDF:** [PDF](https://github.com/jehnsun/gym_analysis_10_22_24/blob/main/R-Markdown%20-%20Gym-Dataset-10.22.24.pdf)
+**Result(PDF View):** [PDF](https://github.com/jehnsun/gym_analysis_10_22_24/blob/main/R-Markdown%20-%20Gym-Dataset-10.22.24.pdf)
 
 **Goal:** Visualize the dataset to reveal potential solutions to increase physical activity at the gym.
 
