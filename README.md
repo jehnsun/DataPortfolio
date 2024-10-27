@@ -3,7 +3,6 @@
 ## Table of Contents
  - [**About**](#About)
  - [**Education/Certificates**](#educationcertificates)
- - [**Tableau**](https://public.tableau.com/app/profile/johnson.vo1109/vizzes)
  - [**Projects**](#Projects)
   - **SQL**
     - [Laptop Specifications for Digital Applications](#laptop-specifications-for-digital-applications)
