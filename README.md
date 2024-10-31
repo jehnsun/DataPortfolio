@@ -32,7 +32,7 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
   - Sept. 2020 - May 2022
     
 - **Google Data Analytics Professional Certificate**
-  - Mar. 2022 - Oct. 2024  
+  - Mar. 2024 - Oct. 2024  
 
 
 ## Projects
