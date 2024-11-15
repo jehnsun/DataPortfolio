@@ -39,28 +39,33 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 ## Projects
 
 
-#### SQL
+### SQL
 ------
 
-##### Laptop Specifications for Digital Applications
+#### Laptop Specifications for Digital Applications
+
+**Description:** The data offers insight about 3000+ laptops within the market; this includes: model number, manufacturer, CPU, GPU, RAM, storage, and many more. By breaking down the data into price ranges, one is able to understand the price range in which majority of laptops fall under. This is valuable as it allows developers to create a program that most consumers can run and limit the amount of potential bugs at launch.
+
+**Goal:** Create a reference point of laptop specifications, for developers to use to create their program.
 
 **Files:** [Files](https://github.com/jehnsun/case_study_laptop_specifications_9_23_24/tree/main)
 
 **Code:** [Laptop Specifications for Digital Applications](https://github.com/jehnsun/case_study_laptop_specifications_9_23_24/blob/main/SQL%20script%20for%20laptops.sql)
 
-**Goal:** Create a reference point of laptop specifications, for developers to use to create their program.
-
-**Description:** The data offers insight about 3000+ laptops within the market; this includes: model number, manufacturer, CPU, GPU, RAM, storage, and many more. By breaking down the data into price ranges, one is able to understand the price range in which majority of laptops fall under. This is valuable as it allows developers to create a program that most consumers can run and limit the amount of potential bugs at launch.
 
 **Skills:** Data formatting, cleaning, and visualizing
 
 **Technical:** SQL, Tableau, Excel, and Powerpoint
 
 ------
-#### R
+### R
 ------
 
-##### How to Promote Physical Activity at the Gym?
+#### How to Promote Physical Activity at the Gym?
+
+**Description:** The data reveals physical attributes and effects of workout of over 900+ gym members. The data includes: Age, Gender, Avg_BPM, Session_Duration, Workout_Type, and more. In order to better understand the dataset, visualizations must be created to help gym owners develop a better grasp on their overall demographic. This allows gym owners to potentially understand how to target their marketing to certain audiences and potentially increase members' physical activity.
+
+**Goal:** Visualize the dataset to reveal potential solutions to increase physical activity at the gym.
 
 **Dataset:** [Gym Members Exercise Dataset by Vala Kohrasani](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset)
 
@@ -68,22 +73,21 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 **Result(PDF View):** [PDF](https://github.com/jehnsun/gym_analysis_10_22_24/blob/main/R-Markdown%20-%20Gym-Dataset-10.22.24.pdf)
 
-**Goal:** Visualize the dataset to reveal potential solutions to increase physical activity at the gym.
-
-**Description:** The data reveals physical attributes and effects of workout of over 900+ gym members. The data includes: Age, Gender, Avg_BPM, Session_Duration, Workout_Type, and more. In order to better understand the dataset, visualizations must be created to help gym owners develop a better grasp on their overall demographic. This allows gym owners to potentially understand how to target their marketing to certain audiences and potentially increase members' physical activity.
-
 **Skills:** Data analysis and data visualization
 
 **Technical:** Tidyverse (R)
 
+------
 ### Tableau
+------
 
 #### League of Legends Worlds 2024 - Region Statistics
-**Link:** [League of Legends Worlds 2024 - Region Statistics](https://public.tableau.com/app/profile/johnson.vo1109/viz/2024LeagueofLegendsWorldsPlayerStatistics/Dashboard1#2)
-
-**Dataset:** [2024 LoL Championship Player Stats & Swiss Stage by Lunovian](https://www.kaggle.com/datasets/anmatngu/2024-lol-championship-player-stats-and-swiss-stage)
 
 **Description:** This is a dashboard that displays the statistics of professional E-Sports Players from around the world competing for a professional tournament surrounding the game known as League of Legends. From the recent tournament known as League of Legends World Championship, players from all around the world are flown across the world to compete for a prize pool of over 2 million USD. 
+
+**Dashboard:** [League of Legends Worlds 2024 - Region Statistics](https://public.tableau.com/app/profile/johnson.vo1109/viz/2024LeagueofLegendsWorldsPlayerStatistics/Dashboard1#2)
+
+**Dataset:** [2024 LoL Championship Player Stats & Swiss Stage by Lunovian](https://www.kaggle.com/datasets/anmatngu/2024-lol-championship-player-stats-and-swiss-stage)
 
 ## Contacts
 - LinkedIn: [Johnson Vo](https://www.linkedin.com/in/vo-johnson/)
