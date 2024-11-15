@@ -8,7 +8,8 @@
     - [Laptop Specifications for Digital Applications](#laptop-specifications-for-digital-applications)
   - **R**
     - [How to Promote Physical Activity at the Gym?](#how-to-promote-physical-activity-at-the-gym)
-  - [**Tableau**](https://public.tableau.com/app/profile/johnson.vo1109/vizzes)
+  - [**Tableau**](#Tableau)
+    - [League of Legends Worlds 2024 - Region Statistics](#LeagueofLegendsWorlds2024-RegionStatistics)
  - [**Contacts**](#Contacts)
 
 ## About
@@ -66,6 +67,11 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 **Skills:** Data analysis and data visualization
 
 **Technical:** Tidyverse (R)
+
+## Tableau
+
+### League of Legends Worlds 2024 - Region Statistics
+**Link:** [League of Legends Worlds 2024 - Region Statistics](https://public.tableau.com/app/profile/johnson.vo1109/viz/2024LeagueofLegendsWorldsPlayerStatistics/Dashboard1#2)
 
 ## Contacts
 - LinkedIn: [Johnson Vo](https://www.linkedin.com/in/vo-johnson/)
