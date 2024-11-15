@@ -72,6 +72,8 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 ### League of Legends Worlds 2024 - Region Statistics
 **Link:** [League of Legends Worlds 2024 - Region Statistics](https://public.tableau.com/app/profile/johnson.vo1109/viz/2024LeagueofLegendsWorldsPlayerStatistics/Dashboard1#2)
+**Dataset:** [2024 LoL Championship Player Stats & Swiss Stage by Lunovian](https://www.kaggle.com/datasets/anmatngu/2024-lol-championship-player-stats-and-swiss-stage)
+**Description:** 
 
 ## Contacts
 - LinkedIn: [Johnson Vo](https://www.linkedin.com/in/vo-johnson/)
