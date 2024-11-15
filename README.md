@@ -4,9 +4,9 @@
  - [**About**](#About)
  - [**Education/Certificates**](#educationcertificates)
  - [**Projects**](#Projects)
-  - **SQL**
+  - [**SQL**](#SQL)
     - [Laptop Specifications for Digital Applications](#laptop-specifications-for-digital-applications)
-  - **R**
+  - [**R**](#R)
     - [How to Promote Physical Activity at the Gym?](#how-to-promote-physical-activity-at-the-gym)
   - [**Tableau**](#Tableau)
     - [League of Legends Worlds 2024 - Region Statistics](#League-of-Legends-Worlds-2024---Region-Statistics)
@@ -38,7 +38,9 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 ## Projects
 
-### Laptop Specifications for Digital Applications
+### SQL
+
+#### Laptop Specifications for Digital Applications
 
 **Files:** [Files](https://github.com/jehnsun/case_study_laptop_specifications_9_23_24/tree/main)
 
@@ -52,7 +54,9 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 **Technical:** SQL, Tableau, Excel, and Powerpoint
 
-### How to Promote Physical Activity at the Gym?
+### R
+
+#### How to Promote Physical Activity at the Gym?
 
 **Dataset:** [Gym Members Exercise Dataset by Vala Kohrasani](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset)
 
@@ -72,7 +76,9 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 ### League of Legends Worlds 2024 - Region Statistics
 **Link:** [League of Legends Worlds 2024 - Region Statistics](https://public.tableau.com/app/profile/johnson.vo1109/viz/2024LeagueofLegendsWorldsPlayerStatistics/Dashboard1#2)
+
 **Dataset:** [2024 LoL Championship Player Stats & Swiss Stage by Lunovian](https://www.kaggle.com/datasets/anmatngu/2024-lol-championship-player-stats-and-swiss-stage)
+
 **Description:** 
 
 ## Contacts
