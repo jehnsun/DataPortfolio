@@ -38,7 +38,9 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 ## Projects
 
+
 ### SQL
+------
 
 #### Laptop Specifications for Digital Applications
 
@@ -54,7 +56,9 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 **Technical:** SQL, Tableau, Excel, and Powerpoint
 
-### <u>R</u>
+------
+### R
+------
 
 #### How to Promote Physical Activity at the Gym?
 
@@ -79,7 +83,7 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 **Dataset:** [2024 LoL Championship Player Stats & Swiss Stage by Lunovian](https://www.kaggle.com/datasets/anmatngu/2024-lol-championship-player-stats-and-swiss-stage)
 
-**Description:** 
+**Description:** This is a dashboard that displays the statistics of professional E-Sports Players from around the world competing for a professional tournament surrounding the game known as League of Legends. From the recent tournament known as League of Legends World Championship, players from all around the world are flown across the world to compete for a prize pool of over 2 million USD. 
 
 ## Contacts
 - LinkedIn: [Johnson Vo](https://www.linkedin.com/in/vo-johnson/)
