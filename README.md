@@ -9,7 +9,7 @@
   - **R**
     - [How to Promote Physical Activity at the Gym?](#how-to-promote-physical-activity-at-the-gym)
   - [**Tableau**](#Tableau)
-    - [League of Legends Worlds 2024 - Region Statistics](#LeagueofLegendsWorlds2024-RegionStatistics)
+    - [League of Legends Worlds 2024 - Region Statistics](#League-of-Legends-Worlds-2024---Region-Statistics)
  - [**Contacts**](#Contacts)
 
 ## About
