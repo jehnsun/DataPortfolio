@@ -54,7 +54,7 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 **Technical:** SQL, Tableau, Excel, and Powerpoint
 
-### R
+### <u>R</u>
 
 #### How to Promote Physical Activity at the Gym?
 
