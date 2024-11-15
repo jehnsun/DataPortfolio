@@ -83,7 +83,7 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 #### League of Legends Worlds 2024 - Region Statistics
 
-**Description:** This is a dashboard that displays the statistics of professional E-Sports Players from around the world competing for a professional tournament surrounding the game known as League of Legends. From the recent tournament known as League of Legends World Championship, players from all around the world are flown across the world to compete for a prize pool of over 2 million USD. 
+**Description:** This is a dashboard that displays the statistics of professional E-Sports Players from around the world competing for a tournament surrounding the game known as League of Legends. From the recent tournament known as League of Legends World Championship, players from all around the world are flown across the world to compete for a prize pool of over 2 million USD. 
 
 **Dashboard:** [League of Legends Worlds 2024 - Region Statistics](https://public.tableau.com/app/profile/johnson.vo1109/viz/2024LeagueofLegendsWorldsPlayerStatistics/Dashboard1#2)
 
