@@ -53,9 +53,9 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 **Code:** [Laptop Specifications for Digital Applications](https://github.com/jehnsun/case_study_laptop_specifications_9_23_24/blob/main/SQL%20script%20for%20laptops.sql)
 
 
-**Skills:** Data formatting, cleaning, and visualizing
+**Skills:** Data Formatting, Cleaning, Visualizing
 
-**Technical:** SQL, Tableau, Excel, and Powerpoint
+**Technical:** SQL, Tableau, Excel, Powerpoint
 
 ------
 ### R
@@ -73,7 +73,7 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 
 **Result(PDF View):** [PDF](https://github.com/jehnsun/gym_analysis_10_22_24/blob/main/R-Markdown%20-%20Gym-Dataset-10.22.24.pdf)
 
-**Skills:** Data analysis and data visualization
+**Skills:** Data Analysis, Data Visualization
 
 **Technical:** Tidyverse (R)
 
@@ -88,6 +88,10 @@ My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/b
 **Dashboard:** [League of Legends Worlds 2024 - Region Statistics](https://public.tableau.com/app/profile/johnson.vo1109/viz/2024LeagueofLegendsWorldsPlayerStatistics/Dashboard1#2)
 
 **Dataset:** [2024 LoL Championship Player Stats & Swiss Stage by Lunovian](https://www.kaggle.com/datasets/anmatngu/2024-lol-championship-player-stats-and-swiss-stage)
+
+**Skills:** Data Visualization, Data Formatting 
+
+**Technical:** Tableau, Excel
 
 ## Contacts
 - LinkedIn: [Johnson Vo](https://www.linkedin.com/in/vo-johnson/)
