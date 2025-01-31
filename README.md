@@ -19,7 +19,7 @@ Using the skills I have learned, I have developed the ability to work with compl
 
 This is a repository displaying my projects and skills I have learned throughout my journey to analyze data
 
-My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/blob/main/Resume%20Data%20Analytics-%20Johnson%20Vo%20.pdf)
+My resume can be found here: [Resume](https://github.com/jehnsun/DataPortfolio/blob/main/Resume%20-%20J.%20Vo.pdf)
 
 ## Education/Certificates
 
